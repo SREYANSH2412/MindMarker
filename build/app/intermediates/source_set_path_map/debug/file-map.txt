@@ -1,0 +1,16 @@
+com.example.reminder_app_2.app-jetified-window-java-1.0.0-beta04-0 C:\Users\sreya\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.reminder_app_2.app-media-1.1.0-1 C:\Users\sreya\.gradle\caches\transforms-3\13f29b4003f18f53249d90821a7f80a9\transformed\media-1.1.0\res
+com.example.reminder_app_2.app-core-1.6.0-2 C:\Users\sreya\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.reminder_app_2.app-jetified-annotation-experimental-1.1.0-3 C:\Users\sreya\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.reminder_app_2.app-jetified-window-1.0.0-beta04-4 C:\Users\sreya\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.reminder_app_2.app-debug-5 D:\COLLEGE\Programs\Flutter\Reminder_app-master\android\app\src\debug\res
+com.example.reminder_app_2.app-main-6 D:\COLLEGE\Programs\Flutter\Reminder_app-master\android\app\src\main\res
+com.example.reminder_app_2.app-pngs-7 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\app\generated\res\pngs\debug
+com.example.reminder_app_2.app-resValues-8 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\app\generated\res\resValues\debug
+com.example.reminder_app_2.app-rs-9 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\app\generated\res\rs\debug
+com.example.reminder_app_2.app-mergeDebugResources-10 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.reminder_app_2.app-mergeDebugResources-11 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.reminder_app_2.app-merged_res-12 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\app\intermediates\merged_res\debug
+com.example.reminder_app_2.app-packaged_res-13 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.example.reminder_app_2.app-packaged_res-14 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\path_provider_android\intermediates\packaged_res\debug
+com.example.reminder_app_2.app-packaged_res-15 D:\COLLEGE\Programs\Flutter\Reminder_app-master\build\sqflite\intermediates\packaged_res\debug

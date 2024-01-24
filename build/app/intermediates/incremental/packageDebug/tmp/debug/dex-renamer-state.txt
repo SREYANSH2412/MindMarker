@@ -1,0 +1,4 @@
+#Wed Jan 24 19:43:25 IST 2024
+base.0=D\:\\COLLEGE\\Programs\\Flutter\\Reminder_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
